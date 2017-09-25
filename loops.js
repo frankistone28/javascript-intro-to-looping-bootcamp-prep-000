@@ -17,5 +17,7 @@ function maybeTrue(){
 }
 
 function doWhileLoop(array){
-  
+  do{
+    console.log("This is fun to do while learning loops");
+  }while (maybeTrue());
 }
